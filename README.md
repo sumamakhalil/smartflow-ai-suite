@@ -1,4 +1,4 @@
-# Digital Marketing AI Suit
+# Enterprise AI Marketing Platform
 
 ## Overview
 
