@@ -52,6 +52,20 @@ Instead of switching between multiple AI tools, users can create, refine, and ma
 | Deployment | Vercel |
 
 
+# My Responsibilities
+
+Primary Full-Stack Developer responsible for designing and implementing the platform:
+
+- Designing the complete application architecture.
+- Building the frontend using Next.js and React.
+- Developing backend APIs and business logic.
+- Integrating multiple AI providers into a unified workflow.
+- Designing and implementing the PostgreSQL database with Supabase.
+- Building authentication and user access management.
+- Implementing the internal credit tracking system.
+- Optimizing AI request flow and application performance.
+- Deploying and maintaining the production application.
+
 #  Engineering Challenges
 
 ## Multi-AI Integration
