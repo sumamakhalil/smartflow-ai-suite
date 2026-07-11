@@ -97,8 +97,8 @@ It also reinforced the importance of balancing technical complexity with simplic
 
 # Product Demonstration
 
-A public product demonstration is available on my LinkedIn profile.
-Demonstration Linkedin Post Link: https://bit.ly/4pqjFcL
+- A public product demonstration is available on my LinkedIn profile.
+- Here is Demonstration Linkedin Post Link: https://bit.ly/4pqjFcL
 
 #  NDA Notice
 
