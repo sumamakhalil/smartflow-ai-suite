@@ -99,7 +99,6 @@ It also reinforced the importance of balancing technical complexity with simplic
 
 A public product demonstration is available on my LinkedIn profile.
 Demonstration Linkedin Post Link: https://bit.ly/4pqjFcL
----
 
 #  NDA Notice
 
