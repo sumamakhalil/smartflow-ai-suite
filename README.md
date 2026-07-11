@@ -81,7 +81,7 @@ The project improved my skills in designing scalable architectures, integrating 
 It also reinforced the importance of balancing technical complexity with simplicity from the user's perspective.
 
 
-# 🎥 Product Demonstration
+# Product Demonstration
 
 A public product demonstration is available on my LinkedIn profile.
 
