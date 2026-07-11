@@ -1,2 +1,17 @@
-# smartflow-ai-suite
-AI-powered marketing platform for generating commercial-grade images, videos, and ad copy.
+# SmartFlow AI Agency Suite
+
+## Overview
+
+## Key Features
+
+## Tech Stack
+
+## My Responsibilities
+
+## Engineering Challenges
+
+## What I Learned
+
+## NDA Notice
+
+## Contact
