@@ -36,3 +36,72 @@ Instead of switching between multiple AI tools, users can create, refine, and ma
 - Credit-Based Usage System
 - Responsive Dashboard
 - Production-Ready SaaS Architecture
+
+---
+
+#  Tech Stack
+
+| Category | Technologies |
+|-----------|--------------|
+| Frontend | Next.js 14, React 18, Tailwind CSS, Framer Motion |
+| Backend | Next.js API Routes |
+| Database | Supabase (PostgreSQL) |
+| Authentication | Supabase Auth |
+| AI Services | OpenAI GPT-4o Mini, Google Gemini 2.5 Flash, Fal.ai |
+| Payments | Internal Credit System |
+| Deployment | Vercel |
+
+
+#  Engineering Challenges
+
+## Multi-AI Integration
+
+Designed a unified workflow that coordinated multiple AI providers while presenting a seamless experience to end users.
+
+## Prompt Enhancement
+
+Implemented an AI preprocessing layer that transformed simple user prompts into richer prompts for higher-quality outputs.
+
+## Scalable Database Design
+
+Structured the PostgreSQL database to support user accounts, credits, generated assets, and future feature expansion.
+
+## Performance Optimization
+
+Reduced perceived waiting time by optimizing asynchronous AI requests and improving frontend responsiveness.
+
+---
+
+# What I Learned
+
+Building this platform strengthened my understanding of production-grade AI SaaS development.
+
+The project improved my skills in designing scalable architectures, integrating multiple AI services, building secure authentication systems, and delivering a polished user experience.
+
+It also reinforced the importance of balancing technical complexity with simplicity from the user's perspective.
+
+
+# 🎥 Product Demonstration
+
+A public product demonstration is available on my LinkedIn profile.
+
+*(Link will be added after verifying that the video does not expose any confidential information covered by the NDA.)*
+
+---
+
+#  NDA Notice
+
+This project was developed for a commercial client under a Non-Disclosure Agreement (NDA).
+
+To respect client confidentiality, the production source code, proprietary business logic, prompts, and internal assets are not included in this repository.
+
+This repository documents the publicly shareable engineering decisions, technologies, and architecture only.
+
+---
+
+# Contact
+
+**Muhammad Sumama Khalil**
+
+- LinkedIn: https://pk.linkedin.com/in/muhammad-sumama-khalil-14ba56282
+- Email: somamakhalil212@gmail.com
