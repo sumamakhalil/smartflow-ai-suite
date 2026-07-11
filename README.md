@@ -80,8 +80,6 @@ This repository documents the project's architecture, technologies, and engineer
 
 ## Contact
 
-## Contact
-
 **Muhammad Sumama Khalil**
 
 LinkedIn: https://pk.linkedin.com/in/muhammad-sumama-khalil-14ba56282
