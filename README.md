@@ -49,8 +49,6 @@ This repository serves as a technical case study of the project. Due to a Non-Di
 
 ## My Responsibilities
 
-## My Responsibilities
-
 - Designed and built the complete full-stack application.
 - Developed the frontend and backend architecture.
 - Integrated multiple AI providers into a unified workflow.
@@ -62,8 +60,6 @@ This repository serves as a technical case study of the project. Due to a Non-Di
 
 ## Engineering Challenges
 
-## Engineering Challenges
-
 - Coordinating multiple AI providers within a single workflow.
 - Optimizing AI response times while maintaining a smooth user experience.
 - Designing a scalable database structure.
@@ -72,11 +68,7 @@ This repository serves as a technical case study of the project. Due to a Non-Di
 
 ## What I Learned
 
-## What I Learned
-
 This project strengthened my understanding of building production-ready AI SaaS products, integrating multiple AI services, designing scalable application architecture, and balancing user experience with backend performance.
-
-## NDA Notice
 
 ## NDA Notice
 
