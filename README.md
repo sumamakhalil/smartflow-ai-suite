@@ -13,3 +13,26 @@ This project is a production-ready AI marketing platform that combines multiple 
 Instead of switching between multiple AI tools, users can create, refine, and manage marketing assets within a unified experience designed for speed, consistency, and scalability.
 
 **Note:** This repository is an engineering case study. The original production source code is protected under a Non-Disclosure Agreement (NDA), so this repository documents the architecture, technologies, and engineering decisions rather than the proprietary implementation.
+
+# Core Features
+
+## AI Content Generation
+
+- AI Product Image Generation
+- AI Service Photography Generation
+- AI Image-to-Video Animation
+- AI Cinematic Text-to-Video
+- AI Structural Remixing
+
+## AI Marketing
+
+- AI Marketing Copy Generator
+- AI Prompt Enhancement
+- Brand Identity Injection
+
+## Platform Features
+
+- Secure Authentication
+- Credit-Based Usage System
+- Responsive Dashboard
+- Production-Ready SaaS Architecture
