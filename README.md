@@ -1,4 +1,4 @@
-# SmartFlow AI Agency Suite
+# Digital Marketing AI Suit
 
 ## Overview
 
