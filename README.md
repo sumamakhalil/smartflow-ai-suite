@@ -82,27 +82,46 @@ Instead of switching between multiple AI tools, users can create, refine, and ma
 | Deployment | Vercel |
 
 ```mermaid
-flowchart TD
+flowchart TB
 
-A[User]
+    User([End User])
 
-A --> B[Next.js 14 Frontend]
+    Frontend[Next.js 14 Frontend<br/>React + Tailwind CSS]
 
-B --> C[Supabase Auth]
+    API[Next.js API Routes<br/>Business Logic]
 
-B --> D[Next.js API Routes]
+    Auth[Supabase Auth]
 
-D --> E[Google Gemini 2.5 Flash]
+    Gemini[Google Gemini 2.5 Flash<br/>Prompt Enhancement]
 
-D --> F[OpenAI GPT-4o Mini]
+    GPT[OpenAI GPT-4o Mini<br/>Marketing Copy]
 
-D --> G[Fal.ai]
+    Fal[Fal.ai<br/>Image & Video Generation]
 
-D --> H[Supabase PostgreSQL]
+    DB[(Supabase PostgreSQL)]
 
-H --> I[Internal Credit Engine]
+    Credit[Internal Credit Engine]
 
-B --> J[Vercel Deployment]
+    Vercel[Vercel Deployment]
+
+    User --> Frontend
+
+    Frontend --> Auth
+
+    Frontend --> API
+
+    API --> Gemini
+
+    API --> GPT
+
+    API --> Fal
+
+    API --> DB
+
+    DB --> Credit
+
+    Frontend -. Hosted on .-> Vercel
+
 ```
 
 
