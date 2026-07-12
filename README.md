@@ -83,7 +83,7 @@ Instead of switching between multiple AI tools, users can create, refine, and ma
 
 ```mermaid
 flowchart TB
-
+## System Architecture
     User([End User])
 
     Frontend[Next.js 14 Frontend<br/>React + Tailwind CSS]
