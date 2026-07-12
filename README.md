@@ -81,6 +81,50 @@ Instead of switching between multiple AI tools, users can create, refine, and ma
 | Payments | Internal Credit System |
 | Deployment | Vercel |
 
+## System Architecture
+
+```mermaid
+flowchart TD
+
+A[User]
+
+B[Next.js Frontend]
+
+C[Next.js API Routes]
+
+D[Supabase]
+
+E[OpenAI GPT-4o Mini]
+
+F[Google Gemini 2.5]
+
+G[Fal.ai]
+
+H[Generated Images]
+
+I[Generated Videos]
+
+J[Marketing Copy]
+
+A --> B
+
+B --> C
+
+C --> D
+
+C --> E
+
+C --> F
+
+C --> G
+
+G --> H
+
+G --> I
+
+E --> J
+```
+
 
 # My Responsibilities
 
