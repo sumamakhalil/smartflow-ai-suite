@@ -81,48 +81,28 @@ Instead of switching between multiple AI tools, users can create, refine, and ma
 | Payments | Internal Credit System |
 | Deployment | Vercel |
 
-## System Architecture
-
 ```mermaid
 flowchart TD
 
 A[User]
 
-B[Next.js Frontend]
+A --> B[Next.js 14 Frontend]
 
-C[Next.js API Routes]
+B --> C[Supabase Auth]
 
-D[Supabase]
+B --> D[Next.js API Routes]
 
-E[OpenAI GPT-4o Mini]
+D --> E[Google Gemini 2.5 Flash]
 
-F[Google Gemini 2.5]
+D --> F[OpenAI GPT-4o Mini]
 
-G[Fal.ai]
+D --> G[Fal.ai]
 
-H[Generated Images]
+D --> H[Supabase PostgreSQL]
 
-I[Generated Videos]
+H --> I[Internal Credit Engine]
 
-J[Marketing Copy]
-
-A --> B
-
-B --> C
-
-C --> D
-
-C --> E
-
-C --> F
-
-C --> G
-
-G --> H
-
-G --> I
-
-E --> J
+B --> J[Vercel Deployment]
 ```
 
 
