@@ -1,5 +1,19 @@
 # Enterprise AI Marketing Platform
 
+![Next.js](https://img.shields.io/badge/Next.js-14-black)
+
+![React](https://img.shields.io/badge/React-18-61DAFB)
+
+![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E)
+
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--Mini-412991)
+
+![Gemini](https://img.shields.io/badge/Google-Gemini_2.5-4285F4)
+
+![Fal.ai](https://img.shields.io/badge/Fal.ai-Image_|_Video_AI-orange)
+
+![NDA](https://img.shields.io/badge/NDA-Protected-red)
+
 > A production-ready AI-powered SaaS platform built for marketing agencies, e-commerce brands, and service businesses to generate premium marketing assets from a unified dashboard.
 
 > **Project Type:** Commercial Client Project (NDA Protected)
